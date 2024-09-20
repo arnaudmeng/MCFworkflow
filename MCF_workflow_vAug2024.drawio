@@ -127,7 +127,7 @@
         <mxCell id="loxRtP_hB29fbSEpOe3p-2" value="&lt;div&gt;Annotation&lt;/div&gt;&lt;div&gt;module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="852" y="240" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.958;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-36" target="FTbB1VYYJDnSIfqOC-Jl-29" edge="1">
+        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.958;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-36" target="FTbB1VYYJDnSIfqOC-Jl-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="myo_U1JuMB-0r-bkWU0E-31" value="Feature table" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/general/File.svg;imageBorder=none;" parent="1" vertex="1">
@@ -222,19 +222,14 @@
         <mxCell id="FTbB1VYYJDnSIfqOC-Jl-24" value="&lt;div&gt;Data QC&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(TraceFinder)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-302" y="423" width="122" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-27" value="RT/I feature plasma NIST" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" parent="1" vertex="1">
-          <mxGeometry x="880" y="735" width="64" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-29" target="FTbB1VYYJDnSIfqOC-Jl-27" edge="1">
+        <mxCell id="PzN8pqGOdhrZcQgjHImk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-27" target="FTbB1VYYJDnSIfqOC-Jl-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-29" value="&lt;div&gt;Data QC&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="853" y="575" width="122" height="122" as="geometry" />
+        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-27" value="&lt;div&gt;RT / intensities&lt;/div&gt;&lt;div&gt;features plasma NIST&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" parent="1" vertex="1">
+          <mxGeometry x="882" y="719" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=5;entryX=0.012;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-32" target="FTbB1VYYJDnSIfqOC-Jl-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="915" y="672.3333333333335" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="FTbB1VYYJDnSIfqOC-Jl-29" value="&lt;div&gt;Data QC&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="853" y="547" width="122" height="122" as="geometry" />
         </mxCell>
         <mxCell id="FTbB1VYYJDnSIfqOC-Jl-32" value="&lt;div&gt;Data processing&lt;/div&gt;&lt;div&gt;MZmine3&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="564" y="545" width="120" height="120" as="geometry" />
@@ -243,7 +238,7 @@
           <mxGeometry x="564" y="635" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FTbB1VYYJDnSIfqOC-Jl-36" value="Feature table" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;imageBorder=none;" parent="1" vertex="1">
-          <mxGeometry x="740.35" y="593" width="56.00000000000001" height="69" as="geometry" />
+          <mxGeometry x="740.35" y="566" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="PzN8pqGOdhrZcQgjHImk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-13" target="Y5Xn4VqGCodK_vh0GEGT-43">
           <mxGeometry relative="1" as="geometry" />
@@ -277,6 +272,9 @@
         </mxCell>
         <mxCell id="PzN8pqGOdhrZcQgjHImk-18" value="analytical chemistry steps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="174" y="-113" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzN8pqGOdhrZcQgjHImk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.063;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="FTbB1VYYJDnSIfqOC-Jl-32" target="FTbB1VYYJDnSIfqOC-Jl-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
